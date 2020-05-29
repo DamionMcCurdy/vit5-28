@@ -6,6 +6,13 @@ color: red;
     width: 250px;
 }
 
+#container {
+ height: 96vh
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+}
+
 .button {
     border-top: 1px solid #96d1f8;
     background: #65a9d7;
