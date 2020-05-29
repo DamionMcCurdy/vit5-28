@@ -2,7 +2,7 @@ p {
 color: red;
 }
 .square {
-    height=250px
-    width=250px
-    border=1px solid black;
+    height: 250px
+    width: 250px
+    border: 1px solid black;
 }
