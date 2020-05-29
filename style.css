@@ -51,7 +51,7 @@ color: red;
 
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 2fr 9fr 3fr 1fr;
+    grid-template-columns: 3fr 2fr 5fr 3fr 3fr;
   
     /* background-color: rgb(33, 243, 173); */
     /* padding: 10px; */
